@@ -1,0 +1,8 @@
+NAME    Throttle   WINDOWCOMPAT
+
+DESCRIPTION 'CPU throttle by Lesha Bogdanow'
+
+CODE    MOVEABLE
+DATA    MOVEABLE MULTIPLE
+
+IMPORTS     DosPerfSysCall=DOSCALL1.976
